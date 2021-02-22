@@ -1,0 +1,10 @@
+C:\Users\Salvador Garcia\Documents\GitHub\ClasesPracticas\CristianClases\CristianPracticas\obj\Debug\CrisitanPracticas.csprojAssemblyReference.cache
+C:\Users\Salvador Garcia\Documents\GitHub\ClasesPracticas\CristianClases\CristianPracticas\obj\Debug\CarlosB01.VISTA.frmAcercaDe.resources
+C:\Users\Salvador Garcia\Documents\GitHub\ClasesPracticas\CristianClases\CristianPracticas\obj\Debug\CristianPracticas.VISTA.frmListaDeUsuariosVisual.resources
+C:\Users\Salvador Garcia\Documents\GitHub\ClasesPracticas\CristianClases\CristianPracticas\obj\Debug\CristianPracticas.Form1.resources
+C:\Users\Salvador Garcia\Documents\GitHub\ClasesPracticas\CristianClases\CristianPracticas\obj\Debug\CristianPracticas.Properties.Resources.resources
+C:\Users\Salvador Garcia\Documents\GitHub\ClasesPracticas\CristianClases\CristianPracticas\obj\Debug\CristianPracticas.VISTA.frmMenu.resources
+C:\Users\Salvador Garcia\Documents\GitHub\ClasesPracticas\CristianClases\CristianPracticas\obj\Debug\CrisitanPracticas.csproj.GenerateResource.cache
+C:\Users\Salvador Garcia\Documents\GitHub\ClasesPracticas\CristianClases\CristianPracticas\obj\Debug\CrisitanPracticas.csproj.CoreCompileInputs.cache
+C:\Users\Salvador Garcia\Documents\GitHub\ClasesPracticas\CristianClases\CristianPracticas\obj\Debug\CristianPracticas.exe
+C:\Users\Salvador Garcia\Documents\GitHub\ClasesPracticas\CristianClases\CristianPracticas\obj\Debug\CristianPracticas.pdb
